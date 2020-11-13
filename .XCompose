@@ -1,0 +1,11 @@
+# import the default Compose file for your locale
+include "%L"
+
+<Multi_key>	<bar>	<greater>	: "▸"
+<Multi_key>	<n>	<o>	<t>	: "¬"
+<Multi_key>	<E>	<slash>		: "∄"
+<Multi_key>	<E>	<backslash>	: "∄"
+<Multi_key>	<slash>	<E>		: "∄"
+<Multi_key>	<backslash> <E>		: "∄"
+<Multi_key>	<f>	<o>	<r>	<a>	<l>	<l>	: "∀"
+<Multi_key>	<colon>	<colon>		: "∷"

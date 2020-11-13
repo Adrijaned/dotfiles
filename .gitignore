@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!.vimrc
+!.vim/
+.vim/*
+!.vim/pack/
+.vim/pack/jdite/start/*
+!.vim/pack/jdite/start/installPlugins.sh
+!.XCompose
